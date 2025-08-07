@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../sk"
+		},
+		{
+			"path": "D:/sk"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "sk"
+	}
+}
